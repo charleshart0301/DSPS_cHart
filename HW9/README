@@ -1,0 +1,9 @@
+For this HW, I chose to remake the feature importance plot for the random forest from the Higgs Boson HW. The first thing I changed was the dimensions of the image. 
+Before, it took up the entire code cell, but not it is much more clear and maneagable. 
+Another change I implemented was to clear up the labels on the y-axis. Before, they were very cluttered and overlapping with each other so much so to the point
+where a few of them were just unreadable. 
+The final change I made was to limit the x-axis. Before there was a lot of empty space so the 'data/ink' ratio was pretty bad. There was a lot more plot space utilized 
+here.  
+Before the x-axis also only went from 15-14. I'm not sure why it was like this originally, however, I managed to label the entire x-axis and include accurate measurements. 
+
+
