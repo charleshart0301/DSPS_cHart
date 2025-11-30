@@ -30,6 +30,8 @@ Reworked Image:
 'Bad' Plot
 https://files.slack.com/files-pri/T05NWLEESS1-F09SFT80U65/image.png
 
+![Project Logo](https://raw.githubusercontent.com/charleshart0301/DSPS_cHart/main/HW9/coralplot.png)
+
 This plot represents a clustering method on different stony coral species. It was used to predict reactions to climate change by comparing current coral species to previous ancestors
 This plot is complicated, but it actually isn't that bad. It conveys a lot of information, but that is necessary for this research. 
 One way that I still think it could improve is the use of the time axis. I feel like it is a needless dimension. The time dimension is plotted in terms of length
@@ -40,6 +42,8 @@ or include it in a separate and different plot.
 
 Good Plot
 https://files.slack.com/files-tmb/T05NWLEESS1-F09S6H9JVL4-06ddc0e487/image_360.png
+
+![Project Logo](https://raw.githubusercontent.com/charleshart0301/DSPS_cHart/main/HW9/limitplot.png)
 
 This one shows the upper field limit for super conductors, which is the maximum magnetic field that can be applied to a specific substance to have it exhibit
 super conducting properties. It plots this versus temperature. I like this plot because there isn't a lot of excess space used, it even includes the field limit for 0 
