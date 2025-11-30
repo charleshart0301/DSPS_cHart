@@ -9,7 +9,21 @@ Before the x-axis also only went from 15-14. I'm not sure why it was like this o
 https://cdn.corenexis.com/view/1667563168
 
 
+Original Image:
+![Project Logo](https://raw.githubusercontent.com/charleshart0301/DSPS_cHart/main/HW9/initialplot.png)
+
+
+
+Reworked Image:
 ![Project Logo](https://raw.githubusercontent.com/charleshart0301/DSPS_cHart/main/HW9/remadeplot.png)
+
+
+
+
+
+
+
+
 
 
 
