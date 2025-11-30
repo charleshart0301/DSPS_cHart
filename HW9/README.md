@@ -7,7 +7,6 @@ here.
 Before the x-axis also only went from 15-14. I'm not sure why it was like this originally, however, I managed to label the entire x-axis and include accurate measurements. 
 
 https://cdn.corenexis.com/view/1667563168
-(image of plot) I had to use a website in order to put it on the README
 
 
 ![Project Logo](https://raw.githubusercontent.com/charleshart0301/DSPS_cHart/main/HW9/remadeplot.png)
